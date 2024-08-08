@@ -1,6 +1,6 @@
 STEP.1  Download kali linux live Link::: https://www.kali.org/get-kali/#kali-platforms
 
-STEP.2 Then download RUFUS for boot the linux
+STEP.2 Then download RUFUS for boot the linux ::  https://rufus.ie/
 
 STEP.3 Open rufus select usb then select iso image
 
